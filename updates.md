@@ -31,6 +31,9 @@ This patch adds a new patch notes section, QR code sharing for project pages, TT
 - Choose your file path ("Documents -> My Games -> Tabletop Simulator -> Saves")
 - You can now load the Sandbox Map in TTS
 
+#### Buy Section Settings
+- Added customizable Buy section settings in the project. You can now set custom text and a link. If the Buy option is enabled, a Buy button will appear on the project’s landing page.
+
 #### Role Request
 - We have added the ability to request roles on the "My Account" UI in the "Role Access" tab. This will be used for new users who sign-up for the system and want the "Creator" or "Vendor" roles. (Creator role is used for Independent Developers & Vendor role is used for Artists, Manufacturers, Writers etc...) When you request a role, the Adventure Together team will receive a notification and approve the request to grant the role.
 
