@@ -65,7 +65,7 @@ tags: [authentication, sso, project-creation, playtesting, forums, mobile, email
 
 ### Description
 
-This alpha release marks a major milestone in Tavern's development. While not yet publicly available, this update introduces foundational features focused on creator empowerment and early community engagement. Feedback from testers will help refine these capabilities ahead of the first stable launch.
+This beta release marks a major milestone in Tavern's development. While not yet publicly available, this update introduces foundational features focused on creator empowerment and early community engagement. Feedback from testers will help refine these capabilities ahead of the first stable launch.
 
 ### Changes
 
