@@ -37,7 +37,7 @@ This patch adds a new patch notes section, QR code sharing for project pages, TT
 #### Role Request
 - We have added the ability to request roles on the "My Account" UI in the "Role Access" tab. This will be used for new users who sign-up for the system and want the "Creator" or "Vendor" roles. (Creator role is used for Independent Developers & Vendor role is used for Artists, Manufacturers, Writers etc...) When you request a role, the Adventure Together team will receive a notification and approve the request to grant the role.
 
-### Mailing List
+#### Mailing List
 - Added a mailing list popup to project pages, allowing users to subscribe for updates on tabletop games, community events, and developer insights from SOURCE Tavern.
 
 #### Bug Fixes
